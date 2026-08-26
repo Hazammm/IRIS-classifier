@@ -1,7 +1,7 @@
 """
 Iris Flower Classifier
 ------------------------
-A simple beginner-friendly ML project that demonstrates:
+A ML project that demonstrates:
 - Python OOP (a class wrapping the model)
 - Basic ML workflow using scikit-learn
 - Train/test split, model training, and evaluation
