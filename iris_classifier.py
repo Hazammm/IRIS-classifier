@@ -2,7 +2,7 @@
 Iris Flower Classifier
 ------------------------
 A ML project that demonstrates:
-- Python OOP (a class wrapping the model)
+- Python OOP
 - Basic ML workflow using scikit-learn
 - Train/test split, model training, and evaluation
 
